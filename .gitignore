@@ -52,3 +52,9 @@
 
 # IDE Project files
 /.idea
+
+# Eclipse Project files
+.buildpath
+.project
+.metadata
+.DS_Store
